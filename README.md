@@ -67,25 +67,19 @@ In terminal, once in the directory where the summary_generate.py file is located
 
 ## Functions
 
-scanner_one: a function to scan similar web pages in a similar fashion 
+DiseaseSummarizer : DiseaseSummarizer 
 
 
 
 ## Example
 
-Stadiums Results: At first glance, the number of sports stadiums opened
-vary greatly for each major city, except Phoenix most likely due to most stadiums 
-being outside of the city itself
+DiseaseSummarizer : DiseaseSummarizer 
 
-The csv is generated in the proper format, however,
-allowing for more in-depth visualization and analysis. 
+DiseaseSummarizer 
 
 ## Important Notes:
 
-**NOTE 1:** Adding state column since there can be more than
-one city with the same name
-Ex: Manhattan, NY vs. Manhattan, KS
-
+**NOTE 1:** DiseaseSummarizer 
 
 
 
